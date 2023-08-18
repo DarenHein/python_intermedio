@@ -28,17 +28,17 @@
    - Retorno de valores con la declaración "return".->TERMINADO 
 
 6. **Programación Orientada a Objetos (POO):**
-   - Clases y objetos.
-   - Atributos y métodos.
-   - Herencia y polimorfismo.
+   - Clases y objetos. TERMINADO 
+   - Atributos y métodos. TERMINADO 
+   - Herencia y polimorfismo. TERMINADO 
 
 7. **Manejo de Excepciones:**
-   - Captura y manejo de errores con try-except.
-   - Sentencia "finally" y excepciones personalizadas.
+   - Captura y manejo de errores con try-except.TERMINADO 
+   - Sentencia "finally" y excepciones personalizadas.TERMINADO 
 
 8. **Archivos y Entrada/Salida:**
-   - Lectura y escritura de archivos.
-   - Uso de contexto con "with" para gestionar archivos.
+   - Lectura y escritura de archivos.TERMINADO 
+   - Uso de contexto con "with" para gestionar archivos.TERMINADO 
 
 **Nivel Avanzado: Profundizando en Python**
 
