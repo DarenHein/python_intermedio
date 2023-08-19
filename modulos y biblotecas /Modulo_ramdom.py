@@ -10,5 +10,4 @@ lista = ["Luis" , "kelly" , "kevin"] #todo genera un elemento en alaetorio en la
 print(random.choice(lista))
 
 random.shuffle(lista)#todo desordena los elementos de una lista selccionada 
-
 print(lista)
