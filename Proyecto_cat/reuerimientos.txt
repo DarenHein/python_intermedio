@@ -1,0 +1,39 @@
+¡Genial! Vamos a trabajar en el proyecto de Generador de Contraseñas. Aquí tienes los requerimientos y pasos para crearlo:
+
+**Proyecto 4: Generador de Contraseñas**
+
+**Requerimientos:**
+
+1. **Generación Aleatoria:** El programa debe ser capaz de generar contraseñas aleatorias con diferentes longitudes.
+
+2. **Complejidad:** Las contraseñas deben incluir letras mayúsculas, minúsculas, números y caracteres especiales para mayor seguridad.
+
+3. **Personalización:** Debe permitir al usuario personalizar las características de la contraseña, como la longitud y los tipos de caracteres permitidos.
+
+4. **Interacción con el Usuario:** El programa debe proporcionar una interfaz donde el usuario pueda ingresar sus preferencias y ver la contraseña generada.
+
+5. **Copia al Portapapeles:** Debe haber una opción para copiar la contraseña al portapapeles para facilitar su uso.
+
+**Pasos para Crear el Proyecto:**
+
+1. **Definir la Función Generadora:** Crea una función que genere contraseñas aleatorias según las especificaciones. Puedes utilizar la biblioteca `random` para generar caracteres aleatorios.
+
+2. **Manejar la Longitud:** Permite que el usuario elija la longitud deseada de la contraseña.
+
+3. **Incluir Tipos de Caracteres:** Pregunta al usuario si quiere incluir letras mayúsculas, minúsculas, números y caracteres especiales.
+
+4. **Generar la Contraseña:** Utiliza las preferencias del usuario para generar la contraseña.
+
+5. **Mostrar la Contraseña:** Muestra la contraseña generada al usuario.
+
+6. **Opción de Copiar al Portapapeles:** Agrega la opción de copiar la contraseña al portapapeles utilizando la biblioteca `pyperclip`.
+
+7. **Interfaz de Usuario:** Crea una interfaz de línea de comandos o gráfica (usando `input()` o una biblioteca como `Tkinter`) para interactuar con el usuario y recibir sus preferencias.
+
+8. **Pruebas y Mejoras:** Prueba el generador de contraseñas con diferentes configuraciones. Asegúrate de que funcione según lo esperado y agrega manejo de errores si es necesario.
+
+9. **Documentación:** Añade comentarios descriptivos a tu código para que otros puedan entenderlo fácilmente.
+
+10. **Extra:** Si te sientes aventurero, podrías considerar agregar una opción para guardar las contraseñas generadas en un archivo.
+
+Recuerda que este proyecto es un ejercicio práctico para mejorar tus habilidades de programación y familiarizarte con el manejo de entradas del usuario, generación aleatoria y manipulación de cadenas. ¡Diviértete creando tu generador de contraseñas seguro y útil!

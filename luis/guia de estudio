@@ -40,6 +40,10 @@
    - Lectura y escritura de archivos.TERMINADO 
    - Uso de contexto con "with" para gestionar archivos.TERMINADO 
 
+8.1. **Args y kargs**
+   - entender args TERMINADO 
+   - entender kargs 
+
 **Nivel Avanzado: Profundizando en Python**
 
 9. **Módulos y Bibliotecas:**
