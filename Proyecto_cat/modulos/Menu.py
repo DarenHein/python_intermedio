@@ -1,5 +1,7 @@
 from modulos.Agregar import agregar
 from modulos.Buscar import buscar
+from modulos.Eliminar import eliminar
+from modulos.Mostrar import mostrar
 def menu():
     bandera = True 
     while bandera :
@@ -8,7 +10,8 @@ def menu():
 1 Agregar 
 2 Buscar 
 3 Ver tareas
-4 Salir 
+4 eliminar 
+5 Salir 
 
 ''')
         try :
@@ -30,8 +33,11 @@ def menu():
                     buscar(nombre_a_buscar)
                 pass 
             elif opcion == 3 :
+                mostrar()
                 pass 
-            elif opcion == 4 :
+            elif opcion == 4 : 
+                eliminar()
+            elif opcion == 5 :
                 bandera = False 
             else :
                 print("opcion invalida ")

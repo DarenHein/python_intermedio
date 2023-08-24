@@ -8,8 +8,9 @@ def buscar(*args):
         sumar = os.path.join(ruta,nombre_extencion)
         existe = os.path.exists(sumar)
         if existe :
+            print("")
             print("El archivo existe y se encuentra en la ruta ->" , sumar)
-            opcion = int(input("deseas abrir la\n1-> si \n2-> no "))
+            opcion = int(input("deseas abrir la\n1-> si \n2-> no \nDigita tu opcion -> "))
             if opcion == 1 :
                 mostrar(nombre_extencion)
                 pass
@@ -28,7 +29,7 @@ def mostrar(nombre):
     try :
         tarea = open(nombre,"r")
         mostrar = tarea.read()
-        return print(mostrar)
+        return print("\n " , mostrar)
     except FileNotFoundError :
         print("No se a podido abrir el archivo ")
     pass
