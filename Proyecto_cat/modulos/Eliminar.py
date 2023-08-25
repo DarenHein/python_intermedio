@@ -22,7 +22,7 @@ def eliminar():
         existe = os.path.exists(juntar)
         if existe :
             try : 
-                opcion2 = int(input("Seguro que deseas eliminar este arichivo \n 1 si \n 2 no \nPor que una vez eliminado no se puede recuperar"))
+                opcion2 = int(input("Seguro que deseas eliminar este arichivo \n 1 si \n 2 no \nPor que una vez eliminado no se puede recuperar -> "))
                 if opcion2 == 1 :
                     os.remove(nombre_mas_extencion)
                 else : 
