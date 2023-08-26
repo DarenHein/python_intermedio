@@ -1,0 +1,63 @@
+¡Por supuesto! Aquí tienes un problemario con 20 ejercicios de nivel intermedio en Python. Estos ejercicios cubren una variedad de conceptos y te ayudarán a mejorar tus habilidades de programación. ¡Diviértete resolviéndolos!
+
+**Ejercicio 1: Contar Vocales**
+Escribe una función que cuente el número de vocales (mayúsculas y minúsculas) en una cadena dada.
+
+**Ejercicio 2: Palíndromo**
+Escribe una función que verifique si una palabra dada es un palíndromo (se lee igual de izquierda a derecha y viceversa).
+
+**Ejercicio 3: Números Primos**
+Escribe una función que determine si un número dado es primo.
+
+**Ejercicio 4: Suma de Dígitos**
+Escribe una función que calcule la suma de los dígitos de un número entero dado.
+
+**Ejercicio 5: Buscar el Mayor y el Menor**
+Escribe una función que encuentre el valor máximo y mínimo en una lista de números.
+
+**Ejercicio 6: Fibonacci**
+Escribe una función que genere los primeros n términos de la secuencia de Fibonacci.
+
+**Ejercicio 7: Ordenar Lista**
+Escribe una función que ordene una lista de números de manera ascendente o descendente según la preferencia del usuario.
+
+**Ejercicio 8: Encontrar Duplicados**
+Escribe una función que encuentre y muestre los elementos duplicados en una lista.
+
+**Ejercicio 9: Conversión de Temperatura**
+Escribe funciones para convertir entre grados Celsius y Fahrenheit.
+
+**Ejercicio 10: Cifrado César**
+Escribe una función que implemente el cifrado César para cifrar y descifrar un mensaje.
+
+**Ejercicio 11: Calculadora Básica**
+Escribe una calculadora básica que realice operaciones de suma, resta, multiplicación y división.
+
+**Ejercicio 12: Suma de Matrices**
+Escribe una función que sume dos matrices dadas.
+
+**Ejercicio 13: Contar Palabras**
+Escribe una función que cuente el número de palabras en una cadena dada.
+
+**Ejercicio 14: Eliminar Elementos Duplicados**
+Escribe una función que elimine los elementos duplicados de una lista sin cambiar el orden original.
+
+**Ejercicio 15: Conversión Decimal a Binario**
+Escribe una función que convierta un número decimal a su representación binaria.
+
+**Ejercicio 16: Buscar Elemento en Lista**
+Escribe una función que busque un elemento dado en una lista y devuelva su índice si se encuentra.
+
+**Ejercicio 17: Contar Mayúsculas y Minúsculas**
+Escribe una función que cuente el número de letras mayúsculas y minúsculas en una cadena dada.
+
+**Ejercicio 18: Validar Contraseña**
+Escribe una función que valide si una contraseña cumple con ciertos criterios de seguridad.
+
+**Ejercicio 19: Promedio de Notas**
+Escribe una función que calcule el promedio de un conjunto de notas y determine la calificación correspondiente.
+
+**Ejercicio 20: Combinaciones de Números**
+Escribe una función que genere todas las combinaciones posibles de n números tomados de una lista dada.
+
+Estos ejercicios abarcan una variedad de temas y te ayudarán a consolidar tus conocimientos en Python. ¡Diviértete resolviéndolos y mejorando tus habilidades de programación!
