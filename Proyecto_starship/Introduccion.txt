@@ -1,0 +1,4 @@
+Este proyecto es el intento de crear una terminal con atajos comandos como le quieran llamar 
+en este documento ocupare mi nick-name -> Daren 
+nombre del proyecto -> starship
+lo intentare hacer en modulos que se importaran de un paquete mi plan es ocupar todo lo que e aprendido en python de forma autodidacta  

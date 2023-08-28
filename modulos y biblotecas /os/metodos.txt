@@ -1,0 +1,36 @@
+La biblioteca `os` en Python es una biblioteca estándar que proporciona una serie de funciones relacionadas con la interacción con el sistema operativo subyacente. Permite trabajar con características específicas del sistema operativo, como el acceso a archivos, la gestión de directorios, la manipulación de rutas, la obtención de información del entorno y más. Aquí tienes una descripción general de algunas de las funciones y características clave de la biblioteca `os`:
+
+1. **Gestión de Directorios y Rutas:**
+   - `os.path`: Módulo que proporciona funciones para manipular rutas de archivos y directorios de manera independiente del sistema operativo. Algunas funciones incluyen `os.path.join()`, `os.path.exists()`, `os.path.abspath()`, etc.
+   - `os.chdir()`: Cambia el directorio de trabajo actual.
+   - `os.listdir()`: Lista los archivos y directorios en un directorio dado.
+
+2. **Acceso a Archivos:**
+   - `os.open()`, `os.close()`: Abre y cierra archivos.
+   - `os.read()`, `os.write()`: Lee y escribe en archivos abiertos.
+   - `os.remove()`: Elimina un archivo.
+
+3. **Operaciones en el Sistema Operativo:**
+   - `os.system()`: Ejecuta comandos en el sistema operativo.
+   - `os.environ`: Un diccionario que contiene variables de entorno.
+
+4. **Gestión de Procesos:**
+   - `os.fork()`: Crea un nuevo proceso.
+   - `os.kill()`: Envía una señal a un proceso.
+
+5. **Manipulación de Directorios:**
+   - `os.mkdir()`, `os.makedirs()`: Crea un nuevo directorio.
+   - `os.rmdir()`: Elimina un directorio vacío.
+
+6. **Cambios en el Sistema Operativo:**
+   - `os.rename()`: Cambia el nombre de un archivo o directorio.
+   - `os.utime()`: Actualiza la marca de tiempo de un archivo.
+
+**Derivadas de `os` en la Biblioteca Estándar:**
+
+La biblioteca `os` también tiene algunas derivadas específicas para sistemas operativos Unix y Windows:
+
+- `posix`: Esta versión se encuentra en sistemas Unix y proporciona funciones adicionales específicas para Unix, como control de permisos y operaciones de archivos específicas.
+- `nt`: Esta versión es para sistemas Windows y proporciona funciones específicas para el entorno Windows, como manipulación de archivos y rutas.
+
+En resumen, la biblioteca `os` y sus derivadas son herramientas valiosas para interactuar con el sistema operativo y realizar tareas relacionadas con archivos, directorios, procesos y más en entornos Unix y Windows utilizando Python.
