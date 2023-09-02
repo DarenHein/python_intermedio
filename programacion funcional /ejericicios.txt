@@ -1,0 +1,31 @@
+Claro, aquí tienes algunos ejercicios muy básicos que puedes abordar utilizando recursividad en Python:
+
+**1. Calcular la suma de los primeros N números naturales:**
+
+Escribe una función recursiva que calcule la suma de los primeros N números naturales. Por ejemplo, la suma de los primeros 5 números naturales sería 1 + 2 + 3 + 4 + 5 = 15.
+
+**2. Calcular el factorial de un número:**
+
+Escribe una función recursiva que calcule el factorial de un número entero positivo `n`. El factorial de `n` se define como el producto de todos los enteros positivos desde 1 hasta `n`.
+
+**3. Calcular la potencia de un número:**
+
+Escribe una función recursiva que calcule la potencia de un número `base` elevado a un exponente `exponente`, es decir, `base^exponente`. Por ejemplo, 2^3 = 8.
+
+**4. Imprimir una serie de Fibonacci:**
+
+Escribe una función recursiva que imprima los primeros `n` términos de la serie de Fibonacci. La serie de Fibonacci comienza con 0 y 1, y cada término subsiguiente es la suma de los dos términos anteriores.
+
+**5. Calcular el máximo común divisor (MCD) de dos números:**
+
+Escribe una función recursiva que calcule el máximo común divisor (MCD) de dos números enteros `a` y `b`. El MCD de dos números es el número más grande que divide a ambos números sin dejar residuo.
+
+**6. Imprimir números naturales en orden descendente:**
+
+Escribe una función recursiva que imprima todos los números naturales desde `n` hasta 1 en orden descendente.
+
+**7. Verificar si una cadena es un palíndromo:**
+
+Escribe una función recursiva que verifique si una cadena de texto es un palíndromo, es decir, si se lee igual de izquierda a derecha y de derecha a izquierda (ignorando espacios y mayúsculas/minúsculas).
+
+Estos ejercicios son simples pero te ayudarán a comprender los conceptos básicos de la recursividad y cómo aplicarla en Python. Puedes intentar resolverlos por ti mismo y luego verificar tus soluciones. Si necesitas ayuda con alguno de ellos, no dudes en preguntar.

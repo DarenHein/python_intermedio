@@ -1,0 +1,10 @@
+Date: 31/8/2023
+Time: 18:52
+Phone Number: +5566777937
+Message: ¡Hola desde pywhatkit!
+--------------------
+Date: 31/8/2023
+Time: 18:59
+Phone Number: +5566777937
+Message: ¡Hola desde pywhatkit!
+--------------------
