@@ -6,7 +6,7 @@ import datetime
 def crearBase(*args):
     #args[0] noombre 
     # argas[1] contraseña 
-    #args[2] tipo 
+    # args[2] tipo 
     # argas[5] ultima fecha 
     try :
         ruta = os.getcwd()

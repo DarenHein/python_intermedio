@@ -4,3 +4,117 @@ Administrador : Luis
 Contraseña : 5882
 Hora Ingresada : 2023-09-02 14:41:41.685833
 -------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-02 23:53:26.681006
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 00:07:37.114289
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 00:12:18.683812
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 00:15:45.607296
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 00:16:19.914260
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 00:23:15.749942
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 00:25:29.462653
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 00:29:56.086281
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 00:30:59.667551
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 20:09:54.630606
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 20:13:19.799048
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 20:14:39.854036
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 20:50:06.616299
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 20:51:34.826588
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 20:52:58.594987
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 21:22:02.722064
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 21:25:14.002937
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 21:26:24.559028
+-------------------------
+
+Registro : 
+Administrador : Luis
+Contraseña : 5882
+Hora Ingresada : 2023-09-03 21:28:18.027063
+-------------------------

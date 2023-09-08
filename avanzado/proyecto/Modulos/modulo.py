@@ -2,6 +2,7 @@
 # dependiendo de quien entre tendra diferentes funcionalidades 
 from Modulos.registro_entradas import base1
 from Modulos.Registro import registro
+from Modulos.Menu import menu
 import os 
 nombre_adminitrador = "Luis"
 contraseña_administrador = "5882"
@@ -23,8 +24,6 @@ def login():
 ''')
     try : 
          nombre = input("-> Ingresa tu nombre -> ")
-         if nombre == "r" or nombre == "R" :
-             registro()
          if nombre != nombre_adminitrador :
               borrar() 
               login()
@@ -36,6 +35,7 @@ def login():
               else : 
                   borrar()
                   base1(nombre,contra,"Admin")
+                  menu(nombre)
     except ValueError : 
          print("-> caracteres invalidos")
     
